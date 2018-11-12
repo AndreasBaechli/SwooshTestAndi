@@ -8,14 +8,8 @@
     <string name="todo">TODO</string>
     <string name="background_image">background image</string>
     <string name="desired_league">Desired League</string>
-    <string name="mens">Mens</string>
-    <string name="co_ed">CO-ED</string>
     <string name="womens">Womens</string>
     <string name="mens">Mens</string>
-    <string name="womens">Womens</string>
-    <string name="co_ed">CO-ED</string>
-    <string name="mens">Mens</string>
-    <string name="womens">Womens</string>
     <string name="co_ed">CO-ED</string>
     <string name="next">Next</string>
 </resources>
